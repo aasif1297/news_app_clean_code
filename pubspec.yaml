@@ -46,6 +46,7 @@ dependencies:
   floor_generator: ^1.4.2
   retrofit_generator: ^8.1.0
   dio: ^5.4.1
+  build_runner: ^2.4.8
 
 dev_dependencies:
   flutter_test:
